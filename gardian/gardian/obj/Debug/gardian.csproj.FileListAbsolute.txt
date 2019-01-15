@@ -1,0 +1,253 @@
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\bin\Debug\gardian.exe.config
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\bin\Debug\gardian.exe
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\bin\Debug\gardian.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\obj\Debug\gardian.csprojResolveAssemblyReference.cache
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\obj\Debug\gardian.FMenuP.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\obj\Debug\gardian.FrmInicio.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\obj\Debug\gardian.Properties.Resources.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\obj\Debug\gardian.csproj.GenerateResource.Cache
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\obj\Debug\gardian.exe
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\obj\Debug\gardian.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\obj\Debug\gardian.Factividades.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\gardian\gardian\obj\Debug\gardian.Princ1.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\gardian.exe.config
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.exe
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.pdb
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.csprojResolveAssemblyReference.cache
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Avan1.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Avan2.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Avan3.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Factividades.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.FMenuP.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.FrmInicio.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Int1.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Int2.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Int3.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Princ1.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Princ2.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Princ3.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Properties.Resources.resources
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.csproj.GenerateResource.Cache
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\gardian.exe
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\gardian.pdb
+H:\gardian\gardian\bin\Debug\gardian.exe.config
+H:\gardian\gardian\obj\Debug\gardian.exe
+H:\gardian\gardian\obj\Debug\gardian.pdb
+M:\gardian\gardian\bin\Debug\gardian.exe.config
+M:\gardian\gardian\obj\Debug\gardian.exe
+M:\gardian\gardian\obj\Debug\gardian.pdb
+M:\gardian\gardian\bin\Debug\gardian.exe
+M:\gardian\gardian\bin\Debug\gardian.pdb
+M:\gardian\gardian\obj\Debug\gardian.csprojResolveAssemblyReference.cache
+M:\gardian\gardian\obj\Debug\gardian.Avan1.resources
+M:\gardian\gardian\obj\Debug\gardian.Avan2.resources
+M:\gardian\gardian\obj\Debug\gardian.Avan3.resources
+M:\gardian\gardian\obj\Debug\gardian.Factividades.resources
+M:\gardian\gardian\obj\Debug\gardian.FMenuP.resources
+M:\gardian\gardian\obj\Debug\gardian.FrmInicio.resources
+M:\gardian\gardian\obj\Debug\gardian.Int1.resources
+M:\gardian\gardian\obj\Debug\gardian.Int2.resources
+M:\gardian\gardian\obj\Debug\gardian.Int3.resources
+M:\gardian\gardian\obj\Debug\gardian.Princ1.resources
+M:\gardian\gardian\obj\Debug\gardian.Princ2.resources
+M:\gardian\gardian\obj\Debug\gardian.Princ3.resources
+M:\gardian\gardian\obj\Debug\gardian.Properties.Resources.resources
+M:\gardian\gardian\obj\Debug\gardian.csproj.GenerateResource.Cache
+G:\gardian\gardian\bin\Debug\gardian.exe.config
+G:\gardian\gardian\obj\Debug\gardian.exe
+G:\gardian\gardian\obj\Debug\gardian.pdb
+G:\gardian\gardian\obj\Debug\gardian.csprojResolveAssemblyReference.cache
+G:\gardian\gardian\obj\Debug\gardian.Avan1.resources
+G:\gardian\gardian\obj\Debug\gardian.Avan2.resources
+G:\gardian\gardian\obj\Debug\gardian.Avan3.resources
+G:\gardian\gardian\obj\Debug\gardian.Factividades.resources
+G:\gardian\gardian\obj\Debug\gardian.FMenuP.resources
+G:\gardian\gardian\obj\Debug\gardian.FrmInicio.resources
+G:\gardian\gardian\obj\Debug\gardian.Int1.resources
+G:\gardian\gardian\obj\Debug\gardian.Int2.resources
+G:\gardian\gardian\obj\Debug\gardian.Int3.resources
+G:\gardian\gardian\obj\Debug\gardian.Princ1.resources
+G:\gardian\gardian\obj\Debug\gardian.Princ2.resources
+G:\gardian\gardian\obj\Debug\gardian.Princ3.resources
+G:\gardian\gardian\obj\Debug\gardian.Properties.Resources.resources
+G:\gardian\gardian\obj\Debug\gardian.Resultados.resources
+G:\gardian\gardian\obj\Debug\gardian.csproj.GenerateResource.Cache
+G:\gardian\gardian\bin\Debug\gardian.exe
+G:\gardian\gardian\bin\Debug\gardian.pdb
+G:\gardian\gardian\bin\Debug\AForge.Video.DirectShow.dll
+G:\gardian\gardian\bin\Debug\AForge.Video.dll
+G:\gardian\gardian\bin\Debug\zxing.dll
+G:\gardian\gardian\bin\Debug\AForge.dll
+G:\gardian\gardian\bin\Debug\AForge.Video.xml
+G:\gardian\gardian\bin\Debug\AForge.Video.DirectShow.xml
+G:\gardian\gardian\bin\Debug\zxing.pdb
+G:\gardian\gardian\bin\Debug\zxing.xml
+G:\gardian\gardian\bin\Debug\AForge.xml
+G:\gardian\gardian\bin\Debug\AForge.Controls.dll
+G:\gardian\gardian\bin\Debug\AForge.Imaging.dll
+G:\gardian\gardian\bin\Debug\AForge.Math.dll
+G:\gardian\gardian\bin\Debug\AForge.Controls.xml
+G:\gardian\gardian\bin\Debug\AForge.Imaging.xml
+G:\gardian\gardian\bin\Debug\AForge.Math.xml
+H:\gardian\gardian\bin\Debug\gardian.exe
+H:\gardian\gardian\bin\Debug\gardian.pdb
+H:\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.dll
+H:\gardian\gardian\bin\Debug\AForge.dll
+H:\gardian\gardian\bin\Debug\AForge.Imaging.dll
+H:\gardian\gardian\bin\Debug\AForge.Math.dll
+H:\gardian\gardian\bin\Debug\AForge.Controls.xml
+H:\gardian\gardian\bin\Debug\AForge.Video.xml
+H:\gardian\gardian\bin\Debug\AForge.Video.DirectShow.xml
+H:\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+H:\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.xml
+H:\gardian\gardian\bin\Debug\zxing.pdb
+H:\gardian\gardian\bin\Debug\zxing.xml
+H:\gardian\gardian\bin\Debug\AForge.xml
+H:\gardian\gardian\bin\Debug\AForge.Imaging.xml
+H:\gardian\gardian\bin\Debug\AForge.Math.xml
+H:\gardian\gardian\obj\Debug\gardian.csprojResolveAssemblyReference.cache
+H:\gardian\gardian\obj\Debug\gardian.Avan1.resources
+H:\gardian\gardian\obj\Debug\gardian.Avan2.resources
+H:\gardian\gardian\obj\Debug\gardian.Avan3.resources
+H:\gardian\gardian\obj\Debug\gardian.Factividades.resources
+H:\gardian\gardian\obj\Debug\gardian.FMenuP.resources
+H:\gardian\gardian\obj\Debug\gardian.FrmInicio.resources
+H:\gardian\gardian\obj\Debug\gardian.Int1.resources
+H:\gardian\gardian\obj\Debug\gardian.Int2.resources
+H:\gardian\gardian\obj\Debug\gardian.Int3.resources
+H:\gardian\gardian\obj\Debug\gardian.Princ1.resources
+H:\gardian\gardian\obj\Debug\gardian.Princ2.resources
+H:\gardian\gardian\obj\Debug\gardian.Princ3.resources
+H:\gardian\gardian\obj\Debug\gardian.Properties.Resources.resources
+H:\gardian\gardian\obj\Debug\gardian.Resultados.resources
+H:\gardian\gardian\obj\Debug\gardian.csproj.GenerateResource.Cache
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\gardian.exe.config
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.exe
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\gardian.exe
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\gardian.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\AForge.dll
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\AForge.Imaging.dll
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\AForge.Math.dll
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\AForge.Controls.xml
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\AForge.Video.xml
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\zxing.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\zxing.xml
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\AForge.xml
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\AForge.Imaging.xml
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\bin\Debug\AForge.Math.xml
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.csprojResolveAssemblyReference.cache
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Avan1.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Avan2.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Avan3.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Factividades.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.FMenuP.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.FrmInicio.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Int1.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Int2.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Int3.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Princ1.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Princ2.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Princ3.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Properties.Resources.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.Resultados.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\gardian\gardian\obj\Debug\gardian.csproj.GenerateResource.Cache
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Controls.dll
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Video.dll
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\zxing.dll
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.dll
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Imaging.dll
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Math.dll
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Controls.xml
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Video.xml
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\zxing.pdb
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\zxing.xml
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.xml
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Imaging.xml
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\bin\Debug\AForge.Math.xml
+C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\gardian\gardian\obj\Debug\gardian.Resultados.resources
+G:\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+G:\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\gardian.exe.config
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.exe
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.pdb
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\gardian.exe
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\gardian.pdb
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Controls.dll
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Video.dll
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\zxing.dll
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.dll
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Imaging.dll
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Math.dll
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Controls.xml
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Video.xml
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\zxing.pdb
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\zxing.xml
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.xml
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Imaging.xml
+C:\Users\AriAlan\Desktop\gardian\gardian\bin\Debug\AForge.Math.xml
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.csprojResolveAssemblyReference.cache
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Avan1.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Avan2.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Avan3.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Factividades.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.FMenuP.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.FrmInicio.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Int1.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Int2.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Int3.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Princ1.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Princ2.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Princ3.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Properties.Resources.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.Resultados.resources
+C:\Users\AriAlan\Desktop\gardian\gardian\obj\Debug\gardian.csproj.GenerateResource.Cache
+H:\gardian full\gardian\gardian\bin\Debug\gardian.exe.config
+H:\gardian full\gardian\gardian\obj\Debug\gardian.exe
+H:\gardian full\gardian\gardian\obj\Debug\gardian.pdb
+H:\gardian full\gardian\gardian\bin\Debug\gardian.exe
+H:\gardian full\gardian\gardian\bin\Debug\gardian.pdb
+H:\gardian full\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.dll
+H:\gardian full\gardian\gardian\bin\Debug\AForge.dll
+H:\gardian full\gardian\gardian\bin\Debug\AForge.Imaging.dll
+H:\gardian full\gardian\gardian\bin\Debug\AForge.Math.dll
+H:\gardian full\gardian\gardian\bin\Debug\AForge.Controls.xml
+H:\gardian full\gardian\gardian\bin\Debug\AForge.Video.xml
+H:\gardian full\gardian\gardian\bin\Debug\AForge.Video.DirectShow.xml
+H:\gardian full\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+H:\gardian full\gardian\gardian\bin\Debug\Gma.QrCodeNet.Encoding.xml
+H:\gardian full\gardian\gardian\bin\Debug\zxing.pdb
+H:\gardian full\gardian\gardian\bin\Debug\zxing.xml
+H:\gardian full\gardian\gardian\bin\Debug\AForge.xml
+H:\gardian full\gardian\gardian\bin\Debug\AForge.Imaging.xml
+H:\gardian full\gardian\gardian\bin\Debug\AForge.Math.xml
+H:\gardian full\gardian\gardian\obj\Debug\gardian.csprojResolveAssemblyReference.cache
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Avan1.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Avan2.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Avan3.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Factividades.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.FMenuP.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.FrmInicio.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Int1.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Int2.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Int3.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Princ1.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Princ2.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Princ3.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Properties.Resources.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.Resultados.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.csproj.GenerateResource.Cache
+H:\gardian full\gardian\gardian\obj\Debug\gardian.FrmExamenVista.resources
+H:\gardian full\gardian\gardian\obj\Debug\gardian.MsgPersonalizado.resources

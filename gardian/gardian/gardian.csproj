@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C2B5190A-AEE8-46F2-96AA-8C4AFB7D2215}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>gardian</RootNamespace>
+    <AssemblyName>gardian</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Controls">
+      <HintPath>C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\proyecto gardian\AForge.NET Framework-2.2.5-(libs only)\Release\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video">
+      <HintPath>C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\proyecto gardian\AForge.NET Framework-2.2.5-(libs only)\Release\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\proyecto gardian\AForge.NET Framework-2.2.5-(libs only)\Release\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Gma.QrCodeNet.Encoding">
+      <HintPath>C:\Users\AriAlan\Documents\tareas tec\5°\video code c sharp\QrCode.Net 0.4 Pre-Release\QrCode.Net 0.4 Pre-Release\Gma.QrCodeNet.Encoder\Gma.QrCodeNet.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing">
+      <HintPath>C:\Users\AriAlan\Documents\tareinis\6to semestre\ing software\proyecto gardian\ZXing.Net.0.14.0.0\net4.5\zxing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Avan1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Avan1.Designer.cs">
+      <DependentUpon>Avan1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Avan2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Avan2.Designer.cs">
+      <DependentUpon>Avan2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Avan3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Avan3.Designer.cs">
+      <DependentUpon>Avan3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BDaccess.cs" />
+    <Compile Include="DibujoRandom.cs" />
+    <Compile Include="Factividades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Factividades.Designer.cs">
+      <DependentUpon>Factividades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FMenuP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMenuP.Designer.cs">
+      <DependentUpon>FMenuP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExamenVista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExamenVista.Designer.cs">
+      <DependentUpon>FrmExamenVista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Int1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Int1.Designer.cs">
+      <DependentUpon>Int1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Int2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Int2.Designer.cs">
+      <DependentUpon>Int2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Int3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Int3.Designer.cs">
+      <DependentUpon>Int3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Memorama.cs" />
+    <Compile Include="MiMessagebox.cs" />
+    <Compile Include="MsgPersonalizado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MsgPersonalizado.Designer.cs">
+      <DependentUpon>MsgPersonalizado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Princ1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Princ1.Designer.cs">
+      <DependentUpon>Princ1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Princ2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Princ2.Designer.cs">
+      <DependentUpon>Princ2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Princ3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Princ3.Designer.cs">
+      <DependentUpon>Princ3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QRclass.cs" />
+    <Compile Include="Resultados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resultados.Designer.cs">
+      <DependentUpon>Resultados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sonidinis.cs" />
+    <Compile Include="Whack_A_Mole.cs" />
+    <EmbeddedResource Include="Avan1.resx">
+      <DependentUpon>Avan1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Avan2.resx">
+      <DependentUpon>Avan2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Avan3.resx">
+      <DependentUpon>Avan3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Factividades.resx">
+      <DependentUpon>Factividades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMenuP.resx">
+      <DependentUpon>FMenuP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExamenVista.resx">
+      <DependentUpon>FrmExamenVista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Int1.resx">
+      <DependentUpon>Int1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Int2.resx">
+      <DependentUpon>Int2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Int3.resx">
+      <DependentUpon>Int3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MsgPersonalizado.resx">
+      <DependentUpon>MsgPersonalizado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Princ1.resx">
+      <DependentUpon>Princ1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Princ2.resx">
+      <DependentUpon>Princ2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Princ3.resx">
+      <DependentUpon>Princ3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resultados.resx">
+      <DependentUpon>Resultados.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop-18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-icon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\cerdo.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\elefante.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\gato.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\perro.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\pez.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\pinguino.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\pollito.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\vaca.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Signo-de-interrogacion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\punto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\pnt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\cat_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\cat_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\cow_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\cow_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\duck_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\duck_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\fondowad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\fondowaf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\fondowam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\fondowac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\marco_wam.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\corazon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\dona.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\flor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\hamburguesa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\helado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\hot dog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\huevo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\leche.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\manzana.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\naranja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\onigiri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\paleta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\pera.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\piña.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\pizza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\pollo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\quequito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\sandía.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imggardian\food\uva.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo3.png" />
+    <None Include="Resources\tv4_5.jpg" />
+    <None Include="Resources\tv4_4.jpg" />
+    <None Include="Resources\tv4_3.jpg" />
+    <None Include="Resources\tv4_2.jpg" />
+    <None Include="Resources\tv4_1.jpg" />
+    <None Include="Resources\tv3_5.jpg" />
+    <None Include="Resources\tv3_4.jpg" />
+    <None Include="Resources\tv3_3.jpg" />
+    <None Include="Resources\tv3_2.jpg" />
+    <None Include="Resources\tv3_1.jpg" />
+    <None Include="Resources\tv2_3.jpg" />
+    <None Include="Resources\tv2_2.jpg" />
+    <None Include="Resources\tv2_1.jpg" />
+    <None Include="Resources\tv1_2.jpg" />
+    <None Include="Resources\tv1_1.jpg" />
+    <None Include="Resources\HNI_0100.JPG" />
+    <None Include="Resources\HNI_0002.JPG" />
+    <None Include="Resources\quequito.wav" />
+    <None Include="Resources\pollo.wav" />
+    <None Include="Resources\pizza.wav" />
+    <None Include="Resources\huevo.wav" />
+    <None Include="Resources\hot_dog.wav" />
+    <None Include="Resources\helado.wav" />
+    <None Include="Resources\hamburguesa.wav" />
+    <None Include="bin\Debug\imggardian\logoizi.png" />
+    <None Include="bin\Debug\sonidos\manzana.wav" />
+    <None Include="bin\Debug\sonidos\naranja.wav" />
+    <None Include="bin\Debug\sonidos\pera.wav" />
+    <None Include="bin\Debug\sonidos\piña.wav" />
+    <None Include="bin\Debug\sonidos\sandía.wav" />
+    <None Include="bin\Debug\sonidos\uva.wav" />
+    <None Include="bin\Debug\sonidos\sandia.wav" />
+    <None Include="bin\Debug\imggardian\hearlogo.png" />
+    <None Include="bin\Debug\imggardian\bear_1.png" />
+    <None Include="bin\Debug\imggardian\chicken_1.png" />
+    <None Include="bin\Debug\imggardian\dog_1.png" />
+    <None Include="bin\Debug\imggardian\eagle_1.png" />
+    <None Include="bin\Debug\imggardian\lion_1.png" />
+    <None Include="bin\Debug\imggardian\parrot_1.png" />
+    <None Include="bin\Debug\imggardian\pig_1.png" />
+    <None Include="bin\Debug\imggardian\horse_1.png" />
+    <None Include="bin\Debug\sonidos\bear.wav" />
+    <None Include="bin\Debug\sonidos\cat.wav" />
+    <None Include="bin\Debug\sonidos\chicken.wav" />
+    <None Include="bin\Debug\sonidos\cow.wav" />
+    <None Include="bin\Debug\sonidos\dog.wav" />
+    <None Include="bin\Debug\sonidos\duck.wav" />
+    <None Include="bin\Debug\sonidos\eagle.wav" />
+    <None Include="bin\Debug\sonidos\horse.wav" />
+    <None Include="bin\Debug\sonidos\lion.wav" />
+    <None Include="bin\Debug\sonidos\parrot.wav" />
+    <None Include="bin\Debug\sonidos\pig.wav" />
+    <None Include="Resources\dona.wav" />
+    <None Include="Resources\bien.wav" />
+    <None Include="Resources\error.wav" />
+    <Content Include="Resources\Food\corazon.jpg" />
+    <Content Include="Resources\Food\dona.jpg" />
+    <Content Include="Resources\Food\flor.jpg" />
+    <Content Include="Resources\Food\hamburguesa.jpg" />
+    <Content Include="Resources\Food\helado.jpg" />
+    <Content Include="Resources\Food\hot dog.jpg" />
+    <Content Include="Resources\Food\huevo.jpg" />
+    <Content Include="Resources\Food\leche.jpg" />
+    <Content Include="Resources\Food\manzana.jpg" />
+    <Content Include="Resources\Food\naranja.jpg" />
+    <Content Include="Resources\Food\onigiri.jpg" />
+    <Content Include="Resources\Food\paleta.jpg" />
+    <Content Include="Resources\Food\pera.jpg" />
+    <Content Include="Resources\Food\pizza.jpg" />
+    <Content Include="Resources\Food\piña.jpg" />
+    <Content Include="Resources\Food\pollo.jpg" />
+    <Content Include="Resources\Food\quequito.jpg" />
+    <Content Include="Resources\Food\sandía.jpg" />
+    <Content Include="Resources\Food\uva.jpg" />
+    <None Include="Resources\Intro.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

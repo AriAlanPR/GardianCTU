@@ -1,0 +1,23 @@
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\bin\Debug\Registro_Gardian.exe.config
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\bin\Debug\Registro_Gardian.exe
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\bin\Debug\Registro_Gardian.pdb
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.csprojResolveAssemblyReference.cache
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.Alumnos.resources
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.Form1.resources
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.Properties.Resources.resources
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.csproj.GenerateResource.Cache
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.exe
+c:\users\arialan\documents\visual studio 2012\Projects\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\bin\Debug\Registro_Gardian.exe.config
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.exe
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.csprojResolveAssemblyReference.cache
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.Alumnos.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.Form1.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.Properties.Resources.resources
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\obj\Debug\Registro_Gardian.csproj.GenerateResource.Cache
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\bin\Debug\Registro_Gardian.exe
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\bin\Debug\Registro_Gardian.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\AriAlan\Documents\tareas tec\6°\ing software\proyecto gardian\Registro_Gardian\Registro_Gardian\bin\Debug\Gma.QrCodeNet.Encoding.xml
